@@ -1,4 +1,4 @@
-require 'newrelic_rpm'
+# require 'newrelic_rpm'
 require 'new_relic/agent/instrumentation/controller_instrumentation'
 
 module NewRelic
